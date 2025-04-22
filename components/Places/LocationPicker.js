@@ -1,5 +1,5 @@
-import { Alert, Image, StyleSheet, View } from "react-native";
-import React from "react";
+import { useState } from "react";
+import { Alert, Image, StyleSheet, Text, View } from "react-native";
 import { Colors } from "../../constants/colors";
 import OutlinedButton from "../UI/OutlinedButton";
 import {
