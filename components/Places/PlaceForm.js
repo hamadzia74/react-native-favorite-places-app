@@ -1,13 +1,13 @@
 import { StyleSheet, Text, View } from "react-native";
 
-const Map = () => {
+const PlaceForm = () => {
   return (
     <View>
-      <Text>Map</Text>
+      <Text>PlaceForm</Text>
     </View>
   );
 };
 
-export default Map;
+export default PlaceForm;
 
 const styles = StyleSheet.create({});
